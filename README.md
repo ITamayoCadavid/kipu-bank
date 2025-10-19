@@ -50,8 +50,3 @@ KipuBank es un contrato educativo que permite a los usuarios depositar y retirar
 - Transferencia segura usando `call` y control de `success`.  
 - Variables inmutables para límites (`withdrawLimit`, `bankCap`).
 
----
-
-## Notas finales
-Este proyecto es la base de mi portafolio Web3 — diseñado para ser seguro, sencillo y extensible.  
-Para dudas o pruebas, escríbeme: `tu-correo@example.com` (reemplaza por tu correo).
