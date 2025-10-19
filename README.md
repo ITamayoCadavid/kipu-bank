@@ -41,6 +41,8 @@ KipuBank es un contrato educativo que permite a los usuarios depositar y retirar
 - **Deposit (Remix):** Llamar `deposit()` y en `Value` poner la cantidad (ej. 0.1 ETH).  
 - **Withdraw (Remix):** Llamar `withdraw(amountInWei)` desde la cuenta que tiene balance.  
 - **Read (Etherscan):** En la pestaña `Read Contract` puedes llamar `getBalance(address)` y ver `getDepositCount`, `getWithdrawalCount`.
+Límite máximo por transacción (withdrawLimit): 1 ETH
+Tope global de depósitos (bankCap): 10 ETH
 
 ---
 
